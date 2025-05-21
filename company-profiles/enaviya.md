@@ -1,0 +1,54 @@
+@@ -0,0 +1,53 @@
+# Enaviya Information Technologies
+
+## Company blurb
+
+Enaviya Information Technologies is a versatile software development service provider headquartered in Bengaluru, India. Enaviya focuses in serving almost all types of software development needs such as Application Development and Maintenance, Product development Services, Enterprise Application Services, custom software development, independent Testing and several other services.
+
+With a customer-centric approach and a commitment to excellence, Enaviya Information Technologies Pvt. Ltd. focuses on providing tailored solutions that align with clients' unique business needs. The company offers services ranging from enterprise resource planning (ERP) and customer relationship management (CRM) systems to web and mobile application development. Backed by a team of skilled professionals, Enaviya emphasizes innovation, agility, and quality, ensuring that its clients gain a competitive edge in an ever-evolving digital landscape.
+
+Enaviya augments businesses through its provision of employing a dedicated development team at remote locations without any hassle. With a strong business acumen, our  IT staff applies a transparent approach and strongly communicates problems in real time through reports, status updates, emails and calls. 
+
+We work as a strong backbone to clients to efficiently resolve their complex business challenges with a planned and managed roadmap and strategy. As a top software development company, our team of IT specialists have helped many businesses transform their business ideas into leading-edge technology solutions. [Read more about Enaviya.com](https://www.enaviya.com).
+
+## Company size
+150-250
+
+## Remote status
+
+Work from Home.
+
+## Region
+
+Worldwide
+
+## Company technologies
+
+* Java
+* PHP
+* .NET
+* SQL Server
+* SharePoint
+* Android
+* Angular
+* iOs
+* Ruby
+* NodeJS
+* ReactJS
+* React Native
+* MySQL
+* mongoDB
+* AWS
+* Laravel
+* Vue
+* Xamarin
+* Magento
+* Shopify
+
+## Office locations
+
+* Bengaluru, India
+
+## How to apply
+
+Visit [Enaviya Careers page](https://www.enaviya.com/working-with-us) for information on how to apply.
